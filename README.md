@@ -4,7 +4,7 @@ A simple implementation that emulates the pipe functionality in terminal
 
 ## Functionality
 
-For the first part only 1 pipe will be supported
+For the first(mandatory) part only 1 pipe will be supported
 
 For the bonus part multiple pipes and the "here document" functionality are implemented
 
