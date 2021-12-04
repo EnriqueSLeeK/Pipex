@@ -31,6 +31,7 @@ For the bonus part
 ./pipex input_file cmd1 cmd2 ... cmdn output_file
 ```
 
+To use the here document functionality
 ```
 ./pipex here_doc delimiter cmd1 cmd2 ... cmdn output_file
 ```
