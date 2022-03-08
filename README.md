@@ -1,4 +1,4 @@
-# Pipex v
+# Pipex [![C/C++ CI](https://github.com/EnriqueSLeeK/Pipex/actions/workflows/build.yml/badge.svg)](https://github.com/EnriqueSLeeK/Pipex/actions/workflows/build.yml)
 
 A simple implementation that emulates the pipe functionality in terminal
 
