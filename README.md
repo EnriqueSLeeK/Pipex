@@ -1,4 +1,4 @@
-# Pipex
+# Pipex [![build-test](https://github.com/EnriqueSLeeK/Pipex/actions/workflows/build_test.yml/badge.svg)](https://github.com/EnriqueSLeeK/Pipex/actions/workflows/build_test.yml)
 
 A simple implementation that emulates the pipe functionality in terminal
 
