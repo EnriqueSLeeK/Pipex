@@ -2,7 +2,7 @@ name: build-test
 
 on: [push, delete]
 jobs:
-  nominette and build:
+  norm_and_build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -11,5 +11,5 @@ jobs:
         flags: '.'
 
     - name: make test
-        run: make
+      run: make
   
